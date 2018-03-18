@@ -9,3 +9,4 @@ app.config.from_object('config.Configuration')
 
 db = Database(app)
 
+
