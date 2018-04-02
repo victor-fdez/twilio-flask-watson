@@ -7,6 +7,6 @@ class Configuration(object):
         'engine': 'playhouse.sqlite_ext.SqliteExtDatabase',
         'check_same_thread': False,
     }
-    DEBUG = True
+    DEBUG = 1
     SECRET_KEY = 'shhhh'
 

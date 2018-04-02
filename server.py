@@ -1,11 +1,6 @@
-from app import app, db
+from app import app, socketio 
 
 import api
-from models import *
-
 
 if __name__ == '__main__':
-    create_tables()
-    app.run()
-
-
+    socketio.run(app)
