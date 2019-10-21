@@ -36,7 +36,7 @@ Twisted==17.9.0
 txaio==2.9.0
 urllib3==1.22
 watson-developer-cloud==1.1.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wtf-peewee==3.0.0
 WTForms==2.1
 zc.lockfile==1.2.1
