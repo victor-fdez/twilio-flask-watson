@@ -34,7 +34,7 @@ transaction==2.2.0
 twilio==6.10.5
 Twisted==17.9.0
 txaio==2.9.0
-urllib3==1.22
+urllib3==1.26.5
 watson-developer-cloud==1.1.1
 Werkzeug==0.14.1
 wtf-peewee==3.0.0
